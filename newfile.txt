@@ -1,1 +1,2 @@
 Updated content for conflict test - repo2
+local conflict test
