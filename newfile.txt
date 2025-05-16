@@ -1,1 +1,1 @@
-initial content from repo2
+Updated content for conflict test - repo2
