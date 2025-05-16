@@ -1,1 +1,2 @@
 Updated content for conflict test - repo2local modification for conflict test
+conflict modification from repo2 - step c
